@@ -1,4 +1,4 @@
-# Gradient-Descend in Linear Rggression/Logistic Regression( by using numpy / Tensorflow) 
+# Gradient-Descend in Linear Regression/Logistic Regression( by using numpy / Tensorflow) 
 
 
 ## Gradient Descent in Neural Network.(Deeplearning-(Insurance-Data))
